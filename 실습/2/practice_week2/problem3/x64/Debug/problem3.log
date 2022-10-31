@@ -1,5 +1,0 @@
-﻿  problem3.cpp
-D:\구글 드라이브\4학년 2학기\코딩트레이너\coding-trainer\실습\2\practice_week2\problem3\problem3.cpp(8,17): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
-D:\구글 드라이브\4학년 2학기\코딩트레이너\coding-trainer\실습\2\practice_week2\problem3\problem3.cpp(11,8): warning C4477: 'scanf' : 서식 문자열 '%lf'에 'double *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'float *'입니다.
-D:\구글 드라이브\4학년 2학기\코딩트레이너\coding-trainer\실습\2\practice_week2\problem3\problem3.cpp(11,8): message : 서식 문자열에서 '%f'을(를) 사용하는 것이 좋습니다.
-  problem3.vcxproj -> D:\구글 드라이브\4학년 2학기\코딩트레이너\coding-trainer\실습\2\practice_week2\x64\Debug\problem3.exe

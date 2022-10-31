@@ -1,5 +1,0 @@
-﻿  소스.c
-D:\구글 드라이브\4학년 2학기\코딩트레이너\coding-training\시험문제\중간\mingi's problem\collisionavoidance\소스.c(10,23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-D:\구글 드라이브\4학년 2학기\코딩트레이너\coding-training\시험문제\중간\mingi's problem\collisionavoidance\소스.c(11,7): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-D:\구글 드라이브\4학년 2학기\코딩트레이너\coding-training\시험문제\중간\mingi's problem\collisionavoidance\소스.c(24,8): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  collisionavoidance.vcxproj -> D:\구글 드라이브\4학년 2학기\코딩트레이너\coding-training\시험문제\중간\mingi's problem\x64\Debug\collisionavoidance.exe

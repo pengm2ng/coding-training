@@ -1,3 +1,0 @@
-﻿  problem2.cpp
-D:\구글 드라이브\4학년 2학기\코딩트레이너\coding-trainer\실습\2\practice_week2\problem2\problem2.cpp(6,17): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
-  problem2.vcxproj -> D:\구글 드라이브\4학년 2학기\코딩트레이너\coding-trainer\실습\2\practice_week2\x64\Debug\problem2.exe
