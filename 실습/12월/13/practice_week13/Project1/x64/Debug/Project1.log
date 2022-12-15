@@ -1,0 +1,4 @@
+﻿  1.cpp
+K:\내 드라이브\4학년 2학기\coding-trainer\coding-training\실습\12월\13\practice_week13\Project1\1.cpp(9,2): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+K:\내 드라이브\4학년 2학기\coding-trainer\coding-training\실습\12월\13\practice_week13\Project1\1.cpp(9,41): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Project1.vcxproj -> K:\내 드라이브\4학년 2학기\coding-trainer\coding-training\실습\12월\13\practice_week13\x64\Debug\Project1.exe
